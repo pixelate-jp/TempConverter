@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TempConverter.vcxproj" Id="c5ff6ad7-416a-472c-a0cb-ae66841e163d" />
+</Solution>
